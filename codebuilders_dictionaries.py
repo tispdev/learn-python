@@ -1,4 +1,4 @@
-#create and print a dictionary
+#create and print a dictionary.
 
 student = {
     "name": "Allen",
