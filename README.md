@@ -34,3 +34,5 @@ Programs:
 - user_data_collector.py – Collects multiple pieces of information from the user, stores them, and prints the results.
   
 - user_input.py – Demonstrates how to take user input, convert it to numbers, and respond based on the input.
+
+- repeat_greeting.py - Asks user for a name, then asks user whether or not they would like to say hi to the person. 
