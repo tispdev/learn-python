@@ -1,7 +1,7 @@
 name = input("Enter your name: ")
 
 while True:
-    answer = input("Say hi to " + name + "? (yes/no): ")
+    answer = input("Say hi to " + name + "? (yes/no): ").strip().lower()
 
     if answer == "yes":
         print("Hi, " + name + "!")
