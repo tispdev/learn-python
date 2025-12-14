@@ -35,4 +35,8 @@ Programs:
   
 - user_input.py – Demonstrates how to take user input, convert it to numbers, and respond based on the input.
 
-- repeat_greeting.py - Asks user for a name, then asks user whether or not they would like to say hi to the person. 
+- repeat_greeting.py - Asks user for a name, then asks user whether or not they would like to say hi to the person.
+
+- shopping_list.py - This program prints out a shopping list, and modifies the second item.
+
+- favourite_things.py - This program prints 5 items, and asks the user for their favorite item.
