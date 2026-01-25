@@ -1,7 +1,7 @@
 import random
 
 def get_guess(attempt):
-    return int(input("Attempt " + str(attempt) + ": "))
+    return int(input("Attempt " + str(attempt+1) + ": "))
 
 def play_round():
     number = random.randint(1, 10)
