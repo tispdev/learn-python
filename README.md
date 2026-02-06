@@ -46,3 +46,7 @@ Programs:
 - greeting_machine.py - This program takes user name and age and relays it.
 
 - number_game.py - This program is a game where the user guesses the secret number (1-10) and is given 3 tries with hints.
+
+- contact_book.py - This program contains a contact book with an email, phone number and a name.
+
+- score_tracker.py - This program stores scores for 3 players and asks the user for the player who scored a point. It then increases that player's score value by 1.
