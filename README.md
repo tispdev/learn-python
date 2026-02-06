@@ -44,3 +44,5 @@ Programs:
 - math_helper.py - This programs takes a number and doubles it and also check's if it's even or not.
 
 - greeting_machine.py - This program takes user name and age and relays it.
+
+- number_game.py - This program is a game where the user guesses the secret number (1-10) and is given 3 tries with hints.
