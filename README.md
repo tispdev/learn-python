@@ -40,3 +40,7 @@ Programs:
 - shopping_list.py - This program prints out a shopping list, and modifies the second item.
 
 - favourite_things.py - This program prints 5 items, and asks the user for their favorite item.
+
+- math_helper.py - This programs takes a number and doubles it and also check's if it's even or not.
+
+- greeting_machine.py - This program takes user name and age and relays it.
