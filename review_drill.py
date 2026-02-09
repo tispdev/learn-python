@@ -9,7 +9,7 @@ for i in range(1, 4):
         print("Win!")
         score = score + 1
         break
-    else
+    else:
         print("Try again")
 
 print("Score: ", score)
